@@ -1,4 +1,4 @@
-# elastic-search-course
+# Elastic Search course
 
 ## Main concepts
 **Nodo**: stores the data that we add to Elastic Seach
